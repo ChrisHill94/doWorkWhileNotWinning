@@ -23,8 +23,8 @@ namespace ThreeThingGame
 
         //Does this work
         //Chris -
-        //Luke - 
-        //Josh -
+        //Luke - No
+        //Josh - Yes
         //Henry - Yes
 
 
